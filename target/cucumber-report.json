@@ -1,0 +1,70 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-03-17T02:17:42.327Z",
+        "line": 2,
+        "name": "User is able to use practice page",
+        "description": "",
+        "id": "user-goes-to-practice-page;user-is-able-to-use-practice-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "The user goes to practice URL",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User clicks on practice example",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "The page opens (Verification)",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "User adds an element",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "User deletes an element",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "User Goes to practice page",
+    "description": "",
+    "id": "user-goes-to-practice-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Practice.feature",
+    "tags": []
+  }
+]

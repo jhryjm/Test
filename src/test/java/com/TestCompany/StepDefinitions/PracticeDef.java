@@ -25,6 +25,7 @@ public class PracticeDef extends Waits {
     }
 
     public void thePageOpensVerification () {
+
     }
 
     public void userAddsAnElement () {
